@@ -1,0 +1,51 @@
+{
+  "modelo_escolhido": "Regressão logística v2 (ajustada)",
+  "limiar_classificacao": 0.16,
+  "hiperparametros": {
+    "C": 0.01,
+    "class_weight": null
+  },
+  "limiares_acao": [
+    0.15,
+    0.33
+  ],
+  "teste_v1": {
+    "acuracia": 0.814,
+    "precisao": 0.264,
+    "revocacao": 0.518,
+    "f1": 0.35,
+    "roc_auc": 0.785,
+    "pr_auc": 0.274
+  },
+  "teste_v2": {
+    "acuracia": 0.829,
+    "precisao": 0.3,
+    "revocacao": 0.579,
+    "f1": 0.395,
+    "roc_auc": 0.825,
+    "pr_auc": 0.358
+  },
+  "ranking_teste": {
+    "regra atual": {
+      "hit_rate@1": 0.419,
+      "hit_rate@3": 0.8,
+      "hit_rate@5": 0.934,
+      "mrr": 0.625,
+      "ndcg@5": 0.695
+    },
+    "v1": {
+      "hit_rate@1": 0.45,
+      "hit_rate@3": 0.811,
+      "hit_rate@5": 0.941,
+      "mrr": 0.649,
+      "ndcg@5": 0.716
+    },
+    "v2": {
+      "hit_rate@1": 0.547,
+      "hit_rate@3": 0.872,
+      "hit_rate@5": 0.96,
+      "mrr": 0.719,
+      "ndcg@5": 0.775
+    }
+  }
+}
