@@ -1,0 +1,321 @@
+id_restaurante,cidade,x_km,y_km,segmento
+R0001,Santiago,-1.01,1.882,Lancheria
+R0002,Porto Alegre,4.039,0.972,Lancheria
+R0003,Santiago,-0.109,0.269,Restaurante
+R0004,Santa Maria,-2.211,-0.21,Hotel
+R0005,Quarta Colônia,-1.304,1.738,Churrascaria
+R0006,Santiago,0.608,-1.421,Buffet
+R0007,Porto Alegre,-0.127,4.285,Pizzaria
+R0008,Porto Alegre,2.388,-1.081,Lancheria
+R0009,Santiago,0.667,-1.14,Pizzaria
+R0010,Santiago,-1.679,-1.0,Restaurante
+R0011,Santa Maria,1.808,-1.496,Buffet
+R0012,Porto Alegre,-3.869,4.214,Restaurante
+R0013,Quarta Colônia,-4.974,0.024,Bar
+R0014,Uruguaiana,1.19,-2.867,Churrascaria
+R0015,Santa Maria,0.857,-1.749,Hotel
+R0016,Porto Alegre,-1.88,3.223,Pizzaria
+R0017,Porto Alegre,4.676,4.66,Restaurante
+R0018,Quarta Colônia,2.529,4.049,Buffet
+R0019,Quarta Colônia,0.848,0.294,Pizzaria
+R0020,Santa Maria,0.497,1.323,Pizzaria
+R0021,Santa Maria,1.983,2.522,Restaurante
+R0022,Santa Maria,-0.477,-0.405,Bar
+R0023,Santa Maria,-1.311,2.408,Bar
+R0024,Porto Alegre,-0.01,2.012,Restaurante
+R0025,Porto Alegre,-1.471,2.332,Pizzaria
+R0026,Uruguaiana,1.307,-0.151,Buffet
+R0027,Santa Maria,-2.744,-0.096,Bar
+R0028,Santa Maria,-0.672,-3.175,Restaurante
+R0029,Porto Alegre,-0.789,4.188,Buffet
+R0030,Porto Alegre,0.017,2.71,Hotel
+R0031,Santa Maria,1.881,-1.39,Pizzaria
+R0032,Santa Maria,0.892,2.126,Lancheria
+R0033,Santiago,-1.022,0.904,Restaurante
+R0034,Santa Maria,2.601,1.222,Hotel
+R0035,Santiago,-2.103,-0.822,Buffet
+R0036,Quarta Colônia,-2.3,0.671,Pizzaria
+R0037,Santa Maria,0.193,1.362,Buffet
+R0038,Uruguaiana,1.293,1.591,Pizzaria
+R0039,Uruguaiana,-1.701,-0.952,Restaurante
+R0040,Santiago,-0.133,-0.447,Restaurante
+R0041,Porto Alegre,1.943,-0.913,Restaurante
+R0042,Santa Maria,-1.879,-0.662,Churrascaria
+R0043,Uruguaiana,0.52,1.148,Churrascaria
+R0044,Porto Alegre,-2.122,-0.848,Restaurante
+R0045,Uruguaiana,1.874,0.581,Bar
+R0046,Itaqui,-0.171,-0.587,Churrascaria
+R0047,Itaqui,0.891,-1.534,Pizzaria
+R0048,Uruguaiana,0.697,-0.518,Hotel
+R0049,Quarta Colônia,3.577,-0.538,Restaurante
+R0050,Quarta Colônia,0.88,-0.463,Restaurante
+R0051,Porto Alegre,4.661,1.496,Bar
+R0052,Santa Maria,2.245,1.423,Lancheria
+R0053,Santa Maria,-1.256,2.367,Churrascaria
+R0054,Porto Alegre,1.846,-0.853,Hotel
+R0055,Santa Maria,-0.3,0.827,Bar
+R0056,Itaqui,-0.178,-0.761,Bar
+R0057,Itaqui,-2.024,-0.052,Buffet
+R0058,Porto Alegre,1.029,-2.644,Pizzaria
+R0059,Uruguaiana,1.534,-0.061,Pizzaria
+R0060,Santiago,0.16,-0.647,Restaurante
+R0061,Porto Alegre,3.162,2.309,Lancheria
+R0062,Uruguaiana,-0.874,-2.216,Restaurante
+R0063,Uruguaiana,-0.428,0.288,Bar
+R0064,Uruguaiana,0.025,-0.648,Hotel
+R0065,Porto Alegre,0.216,2.325,Lancheria
+R0066,Porto Alegre,1.55,4.092,Restaurante
+R0067,Porto Alegre,-1.336,-3.402,Bar
+R0068,Santiago,-1.243,0.398,Bar
+R0069,Quarta Colônia,3.059,-2.306,Restaurante
+R0070,Uruguaiana,1.073,-0.086,Restaurante
+R0071,Uruguaiana,1.939,-1.155,Pizzaria
+R0072,Santa Maria,1.619,1.337,Bar
+R0073,Porto Alegre,-4.956,-3.668,Lancheria
+R0074,Uruguaiana,0.67,-0.783,Lancheria
+R0075,Itaqui,-0.108,1.474,Churrascaria
+R0076,Porto Alegre,0.68,-6.693,Lancheria
+R0077,Santa Maria,2.0,-0.254,Buffet
+R0078,Itaqui,0.125,0.392,Churrascaria
+R0079,Santa Maria,2.038,-2.647,Bar
+R0080,Porto Alegre,-6.679,-0.318,Restaurante
+R0081,Porto Alegre,-2.024,5.944,Restaurante
+R0082,Quarta Colônia,-2.083,2.378,Lancheria
+R0083,Santa Maria,-3.46,-2.283,Bar
+R0084,Santiago,0.209,-0.735,Restaurante
+R0085,Santa Maria,2.019,-1.796,Restaurante
+R0086,Porto Alegre,0.165,3.55,Bar
+R0087,Porto Alegre,-1.026,-1.705,Restaurante
+R0088,Porto Alegre,-1.472,1.493,Churrascaria
+R0089,Itaqui,-0.346,-0.744,Restaurante
+R0090,Uruguaiana,-1.662,-0.15,Restaurante
+R0091,Itaqui,-0.61,0.444,Churrascaria
+R0092,Uruguaiana,0.377,1.705,Buffet
+R0093,Porto Alegre,-3.084,2.221,Churrascaria
+R0094,Santa Maria,-0.236,1.044,Buffet
+R0095,Santa Maria,1.17,-1.729,Bar
+R0096,Porto Alegre,0.642,2.524,Restaurante
+R0097,Santa Maria,-1.487,-3.092,Buffet
+R0098,Santa Maria,0.123,1.164,Bar
+R0099,Santa Maria,-0.763,-1.477,Restaurante
+R0100,Porto Alegre,0.979,-4.185,Hotel
+R0101,Santa Maria,-3.712,-0.269,Restaurante
+R0102,Santa Maria,-2.88,0.049,Restaurante
+R0103,Porto Alegre,-2.282,-1.862,Lancheria
+R0104,Santa Maria,1.792,-0.847,Restaurante
+R0105,Santa Maria,-0.427,0.357,Restaurante
+R0106,Uruguaiana,0.125,0.14,Lancheria
+R0107,Itaqui,-0.334,-1.921,Bar
+R0108,Porto Alegre,0.135,0.737,Churrascaria
+R0109,Porto Alegre,-4.028,2.318,Restaurante
+R0110,Santa Maria,1.729,-0.978,Bar
+R0111,Porto Alegre,-1.128,-3.932,Buffet
+R0112,Santa Maria,0.938,-1.747,Restaurante
+R0113,Porto Alegre,-1.933,-4.984,Buffet
+R0114,Porto Alegre,-4.631,1.498,Buffet
+R0115,Santa Maria,-1.246,0.659,Restaurante
+R0116,Itaqui,0.344,-1.783,Pizzaria
+R0117,Porto Alegre,-2.319,-3.405,Restaurante
+R0118,Santa Maria,0.168,-1.039,Churrascaria
+R0119,Uruguaiana,1.335,0.642,Churrascaria
+R0120,Santa Maria,2.818,2.477,Bar
+R0121,Santa Maria,-2.855,-0.02,Churrascaria
+R0122,Porto Alegre,-1.572,-1.516,Restaurante
+R0123,Uruguaiana,-1.109,1.722,Lancheria
+R0124,Quarta Colônia,-0.004,-4.24,Restaurante
+R0125,Santiago,-0.983,-1.228,Restaurante
+R0126,Itaqui,-0.003,0.957,Bar
+R0127,Porto Alegre,2.809,1.672,Bar
+R0128,Santa Maria,2.233,0.926,Restaurante
+R0129,Porto Alegre,-5.643,-3.255,Pizzaria
+R0130,Uruguaiana,1.268,0.326,Churrascaria
+R0131,Santa Maria,0.431,1.231,Buffet
+R0132,Porto Alegre,5.628,1.796,Bar
+R0133,Santa Maria,-1.535,1.917,Bar
+R0134,Porto Alegre,1.872,-5.891,Buffet
+R0135,Porto Alegre,2.298,-4.37,Lancheria
+R0136,Santiago,0.509,-0.763,Bar
+R0137,Porto Alegre,6.135,2.094,Restaurante
+R0138,Santa Maria,2.131,1.39,Churrascaria
+R0139,Porto Alegre,-1.758,3.151,Pizzaria
+R0140,Santa Maria,1.136,-0.922,Bar
+R0141,Santa Maria,2.564,-2.544,Buffet
+R0142,Uruguaiana,-1.316,-2.614,Lancheria
+R0143,Porto Alegre,0.98,-4.75,Buffet
+R0144,Porto Alegre,-1.611,-2.659,Bar
+R0145,Santa Maria,3.565,0.096,Churrascaria
+R0146,Quarta Colônia,2.868,-1.209,Buffet
+R0147,Itaqui,1.903,0.298,Lancheria
+R0148,Itaqui,-1.117,0.001,Churrascaria
+R0149,Santa Maria,2.791,2.022,Bar
+R0150,Santa Maria,0.392,-0.156,Pizzaria
+R0151,Porto Alegre,-3.14,2.736,Lancheria
+R0152,Santa Maria,2.796,0.052,Hotel
+R0153,Porto Alegre,-0.219,3.05,Hotel
+R0154,Santiago,0.308,-0.908,Churrascaria
+R0155,Quarta Colônia,1.323,0.53,Pizzaria
+R0156,Porto Alegre,-0.62,2.13,Pizzaria
+R0157,Santa Maria,1.435,-0.403,Bar
+R0158,Santa Maria,-1.409,-0.694,Hotel
+R0159,Santa Maria,-1.302,-0.463,Hotel
+R0160,Santa Maria,2.921,0.655,Churrascaria
+R0161,Santa Maria,-1.368,1.596,Churrascaria
+R0162,Santa Maria,2.114,-3.493,Pizzaria
+R0163,Santa Maria,-1.128,2.266,Restaurante
+R0164,Santa Maria,2.891,-1.954,Lancheria
+R0165,Quarta Colônia,-3.13,1.104,Lancheria
+R0166,Porto Alegre,2.114,2.038,Restaurante
+R0167,Itaqui,-0.44,0.873,Restaurante
+R0168,Santiago,-1.152,0.71,Buffet
+R0169,Porto Alegre,2.112,-0.029,Bar
+R0170,Porto Alegre,-1.746,-3.534,Churrascaria
+R0171,Uruguaiana,0.674,-1.318,Bar
+R0172,Porto Alegre,-1.836,-0.588,Churrascaria
+R0173,Porto Alegre,5.006,-0.474,Lancheria
+R0174,Santa Maria,-2.921,-0.276,Hotel
+R0175,Uruguaiana,0.25,-0.823,Lancheria
+R0176,Porto Alegre,-3.314,3.491,Pizzaria
+R0177,Santa Maria,1.366,-2.202,Hotel
+R0178,Uruguaiana,1.617,0.955,Restaurante
+R0179,Santa Maria,0.431,-2.054,Pizzaria
+R0180,Quarta Colônia,-1.67,1.733,Churrascaria
+R0181,Santiago,0.253,-2.114,Buffet
+R0182,Uruguaiana,0.28,0.862,Churrascaria
+R0183,Santa Maria,-0.933,0.218,Buffet
+R0184,Porto Alegre,4.034,-4.262,Hotel
+R0185,Santa Maria,1.426,-2.416,Churrascaria
+R0186,Porto Alegre,3.48,-2.835,Hotel
+R0187,Uruguaiana,1.062,-0.213,Restaurante
+R0188,Santa Maria,1.532,-1.785,Lancheria
+R0189,Santiago,-0.984,-0.763,Restaurante
+R0190,Porto Alegre,3.595,3.424,Restaurante
+R0191,Quarta Colônia,1.463,-2.222,Lancheria
+R0192,Porto Alegre,3.237,-0.185,Churrascaria
+R0193,Santa Maria,1.973,-0.485,Restaurante
+R0194,Itaqui,0.873,0.661,Hotel
+R0195,Porto Alegre,-0.013,-3.711,Pizzaria
+R0196,Santa Maria,3.599,1.853,Buffet
+R0197,Porto Alegre,-2.255,3.339,Lancheria
+R0198,Porto Alegre,-2.476,1.724,Lancheria
+R0199,Santa Maria,0.706,-1.825,Bar
+R0200,Uruguaiana,2.167,-0.036,Bar
+R0201,Uruguaiana,2.462,-0.439,Pizzaria
+R0202,Porto Alegre,1.845,0.881,Lancheria
+R0203,Santa Maria,-1.41,-2.423,Bar
+R0204,Santa Maria,-0.33,-1.022,Pizzaria
+R0205,Porto Alegre,1.229,-5.641,Lancheria
+R0206,Santa Maria,3.636,-1.798,Restaurante
+R0207,Porto Alegre,-1.256,3.501,Restaurante
+R0208,Porto Alegre,-3.39,5.199,Restaurante
+R0209,Santiago,-0.781,-1.289,Buffet
+R0210,Santa Maria,3.289,0.823,Buffet
+R0211,Santiago,0.288,2.032,Restaurante
+R0212,Santa Maria,0.087,-2.639,Lancheria
+R0213,Porto Alegre,-2.83,-0.3,Bar
+R0214,Santiago,0.302,-2.018,Pizzaria
+R0215,Santa Maria,-2.856,2.846,Bar
+R0216,Itaqui,-1.598,0.741,Pizzaria
+R0217,Uruguaiana,1.185,-0.62,Lancheria
+R0218,Itaqui,-1.178,0.975,Restaurante
+R0219,Porto Alegre,-3.362,-0.121,Restaurante
+R0220,Quarta Colônia,-2.941,-1.569,Pizzaria
+R0221,Porto Alegre,1.26,4.502,Restaurante
+R0222,Santa Maria,-3.427,-2.6,Churrascaria
+R0223,Santiago,0.929,0.826,Bar
+R0224,Itaqui,0.259,1.662,Restaurante
+R0225,Itaqui,-0.289,0.539,Pizzaria
+R0226,Santa Maria,0.318,3.537,Bar
+R0227,Santa Maria,-0.978,3.704,Lancheria
+R0228,Porto Alegre,3.696,0.265,Hotel
+R0229,Quarta Colônia,3.785,-0.043,Lancheria
+R0230,Quarta Colônia,1.64,0.608,Bar
+R0231,Santa Maria,-2.682,-2.409,Buffet
+R0232,Santa Maria,-1.328,1.441,Restaurante
+R0233,Santiago,0.344,0.951,Pizzaria
+R0234,Santa Maria,-0.319,1.027,Churrascaria
+R0235,Santa Maria,3.054,0.7,Bar
+R0236,Uruguaiana,1.207,1.563,Churrascaria
+R0237,Santa Maria,1.733,2.48,Hotel
+R0238,Uruguaiana,0.523,-2.056,Bar
+R0239,Quarta Colônia,-1.926,4.619,Lancheria
+R0240,Santa Maria,-1.525,-1.24,Churrascaria
+R0241,Porto Alegre,-1.273,-5.483,Buffet
+R0242,Santiago,-0.478,0.654,Restaurante
+R0243,Porto Alegre,-1.466,0.608,Buffet
+R0244,Quarta Colônia,-3.662,-1.273,Restaurante
+R0245,Santa Maria,-0.549,0.369,Restaurante
+R0246,Quarta Colônia,0.567,2.922,Bar
+R0247,Porto Alegre,-0.62,-3.095,Lancheria
+R0248,Santa Maria,1.97,0.369,Bar
+R0249,Santiago,0.133,-1.878,Buffet
+R0250,Santiago,-0.347,0.204,Bar
+R0251,Santa Maria,-2.493,3.403,Restaurante
+R0252,Itaqui,1.087,0.321,Pizzaria
+R0253,Santa Maria,-2.501,2.826,Lancheria
+R0254,Santa Maria,0.474,3.681,Restaurante
+R0255,Porto Alegre,-1.658,1.411,Buffet
+R0256,Uruguaiana,0.755,3.14,Restaurante
+R0257,Santiago,-0.872,-0.801,Lancheria
+R0258,Santiago,0.338,-0.193,Buffet
+R0259,Porto Alegre,-3.204,3.327,Buffet
+R0260,Porto Alegre,2.307,-1.536,Lancheria
+R0261,Porto Alegre,-0.921,7.825,Restaurante
+R0262,Santa Maria,0.693,1.197,Restaurante
+R0263,Porto Alegre,-2.74,2.483,Pizzaria
+R0264,Itaqui,0.309,-0.074,Churrascaria
+R0265,Porto Alegre,-2.919,3.824,Restaurante
+R0266,Uruguaiana,-0.006,0.136,Buffet
+R0267,Porto Alegre,1.502,4.173,Buffet
+R0268,Santa Maria,1.422,0.085,Churrascaria
+R0269,Santa Maria,-2.882,-3.039,Restaurante
+R0270,Santa Maria,0.271,-2.424,Restaurante
+R0271,Porto Alegre,2.102,6.847,Bar
+R0272,Santa Maria,0.215,1.922,Pizzaria
+R0273,Santa Maria,-1.212,2.372,Buffet
+R0274,Itaqui,-0.327,-1.587,Churrascaria
+R0275,Porto Alegre,2.193,-0.771,Bar
+R0276,Porto Alegre,1.784,1.227,Buffet
+R0277,Santa Maria,1.687,-1.23,Buffet
+R0278,Porto Alegre,-0.949,-3.778,Bar
+R0279,Santa Maria,0.477,-0.102,Pizzaria
+R0280,Santa Maria,-0.513,-0.228,Buffet
+R0281,Itaqui,0.283,0.63,Buffet
+R0282,Porto Alegre,5.108,4.438,Churrascaria
+R0283,Itaqui,-2.042,-0.888,Lancheria
+R0284,Uruguaiana,-0.97,0.055,Pizzaria
+R0285,Santa Maria,-1.761,1.293,Buffet
+R0286,Santiago,-0.291,-1.206,Restaurante
+R0287,Santa Maria,3.366,-0.287,Buffet
+R0288,Santa Maria,2.599,0.997,Restaurante
+R0289,Santa Maria,-0.634,2.157,Pizzaria
+R0290,Itaqui,-0.422,-0.645,Lancheria
+R0291,Porto Alegre,2.432,3.722,Restaurante
+R0292,Uruguaiana,0.364,-1.054,Bar
+R0293,Santiago,0.388,-0.688,Restaurante
+R0294,Santa Maria,-2.427,-0.39,Restaurante
+R0295,Porto Alegre,-0.522,-4.779,Restaurante
+R0296,Santa Maria,0.025,1.193,Restaurante
+R0297,Santa Maria,1.988,-1.041,Hotel
+R0298,Porto Alegre,-1.238,-1.312,Bar
+R0299,Santa Maria,-4.196,-0.687,Restaurante
+R0300,Santiago,1.101,1.223,Restaurante
+R0301,Porto Alegre,-2.725,3.578,Hotel
+R0302,Santiago,0.819,0.329,Restaurante
+R0303,Quarta Colônia,2.248,-0.454,Bar
+R0304,Porto Alegre,0.175,5.512,Lancheria
+R0305,Porto Alegre,-2.662,1.507,Churrascaria
+R0306,Porto Alegre,0.971,-0.999,Restaurante
+R0307,Santa Maria,1.692,-1.396,Restaurante
+R0308,Itaqui,-1.802,-0.347,Restaurante
+R0309,Porto Alegre,-0.925,-5.986,Buffet
+R0310,Santiago,0.095,1.888,Pizzaria
+R0311,Santa Maria,-0.826,1.49,Hotel
+R0312,Uruguaiana,-0.284,0.106,Pizzaria
+R0313,Porto Alegre,1.62,-1.215,Pizzaria
+R0314,Santa Maria,1.139,1.938,Churrascaria
+R0315,Porto Alegre,-1.195,4.949,Restaurante
+R0316,Porto Alegre,-2.01,0.444,Bar
+R0317,Porto Alegre,-1.966,-3.439,Churrascaria
+R0318,Santa Maria,0.834,-0.486,Restaurante
+R0319,Porto Alegre,4.748,-5.004,Restaurante
+R0320,Santa Maria,-1.911,0.261,Restaurante
